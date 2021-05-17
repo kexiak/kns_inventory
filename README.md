@@ -14,4 +14,5 @@ Inventory HUD for ESX. You can open and close inventory using F2.
 - Weapons support
 
 ## Video
-![Inventory showcase](https://www.youtube.com/watch?v=rrsfoo445mY)
+[Inventory showcase](https://www.youtube.com/watch?v=rrsfoo445mY)
+
