@@ -1,0 +1,1 @@
+# kns_inventory
