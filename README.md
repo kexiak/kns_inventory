@@ -1,4 +1,4 @@
-# kns_inventory 1.1.0
+# kns_inventory 1.2.0
 
 Inventory HUD for ESX. You can open and close inventory using F2.
 
